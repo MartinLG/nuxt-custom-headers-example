@@ -30,7 +30,11 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
-  }
+  },
+  httpHeaders: () => ({
+    'Cache-Control': 'max-age=60, s-maxage=90, public',
+    'X-My-Header': 'Anything you could need'
+  })
 }
 </script>
 

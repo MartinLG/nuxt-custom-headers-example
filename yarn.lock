@@ -3894,6 +3894,10 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
+nuxt-custom-headers@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/nuxt-custom-headers/-/nuxt-custom-headers-2.0.0.tgz#26000c81147af0258e3f304888d86ee69780d4ad"
+
 nuxt@^2.4.0:
   version "2.4.3"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.4.3.tgz#1584fbbaed2bfb4839da2298c00bdcac2d71dcdd"
